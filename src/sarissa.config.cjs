@@ -1,25 +1,15 @@
 export default {
-  siteTitle: "Sarissa Blog",
-  siteDescription: "Responsive Blog Template",
+  siteTitle: "Stephen Zhang's Blog",
+  siteDescription: "My personal blog. Don't expect too much.",
   favicon: "/favicon.ico",
-  siteImagePath: "/images/sarissa.png",
-  footer: "© 1967 - 2022 Sarissa Blog",
+  siteImagePath: "/images/coolcat.png",
+  footer: "© 1967 - 2022 Stephen Zhang's Blog",
   dateFormat: "dd.MM.yyyy HH:mm",
   socialMedia: {
-    facebook: "ozcelikismail",
-    twitter: "ismailozcelik",
-    linkedin: "ismail-özçelik",
-    github: "iozcelik",
+    github: "grififth",
   },
   pageSize: 5,
-  categories: [
-    {
-      name: "theme",
-      color: "btn-warning",
-      image: "/images/theme.jpg",
-      order: 1,
-    },
-  ],
+  categories: [],
   categorySettings: {
     order: "name", // name | count
     layout: "card", //button | card
